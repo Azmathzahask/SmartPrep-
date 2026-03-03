@@ -1,0 +1,5 @@
+{
+  "name": "Zomato SmartPrep",
+  "description": "Adaptive Kitchen Preparation Time (KPT) prediction system for food delivery, optimized for the Indian ecosystem with real-time load indexing and merchant reliability scoring.",
+  "requestFramePermissions": []
+}
